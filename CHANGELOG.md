@@ -1,21 +1,23 @@
-# Love & Tolerance Change Log:
-
-[Email]: mailto:velvetremedy@love-tolerance.com "Email"
-
 # 02 June 2011
 Arekuzu - Minecraft Beta 1.6.6
 
 Unknown release, we don't have any information on this release, if you know anything or have the file for it, please [contact][Email] us.
+
+[Email]: mailto:silkrose@love-tolerance.com "Email"
 
 # 11 June 2011
 Arekuzu - Minecraft Beta 1.6.6
 
 Unknown release, we don't have any information on this release, if you know anything or have the file for it, please [contact][Email] us.
 
+[Email]: mailto:silkrose@love-tolerance.com "Email"
+
 # 01 July 2011
 Arekuzu - Minecraft Beta 1.7.2
 
 Unknown release, we don't have any information on this release, if you know anything or have the file for it, please [contact][Email] us.
+
+[Email]: mailto:silkrose@love-tolerance.com "Email"
 
 # 11 August 2011
 Arekuzu - Minecraft Beta 1.7.3
@@ -655,6 +657,8 @@ Heliostorm - Minecraft 1.8
 
 Unknown release, we don't have any information on this release, if you know anything about it, please [contact][Email] us.
 
+[Email]: mailto:silkrose@love-tolerance.com "Email"
+
 # 13 August 2016
 Bronydog - Minecraft 1.10
 
@@ -663,10 +667,14 @@ Heliostorm - Minecraft 1.9
 
 Unknown release, we don't have any information on this release, if you know anything about it, please [contact][Email] us.
 
+[Email]: mailto:silkrose@love-tolerance.com "Email"
+
 # 23 October 2016
 HellSteedTrotsky - Minecraft 1.9.4
 
 Unknown release, we don't have any information on this release, if you know anything about it, please [contact][Email] us.
+
+[Email]: mailto:silkrose@love-tolerance.com "Email"
 
 # 11 February 2017
 ZeldaLinkAaron - Minecraft 1.11.X
